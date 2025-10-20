@@ -58,7 +58,7 @@ body {
 @media only screen and (max-width: 600px) {
 
   body {
-  overflow: hidden;
+  overflow: auto;
   }
 
   .scroll-paper {
@@ -70,7 +70,7 @@ body {
 @media only screen and (max-width: 800px) {
 
   body {
-  overflow: hidden;
+  overflow: auto;
   }
 
   .scroll-paper {
@@ -82,7 +82,7 @@ body {
 @media only screen and (max-width: 400px) {
 
   body {
-  overflow: hidden;
+  overflow: auto;
   }
 
   .scroll-paper {
@@ -90,6 +90,7 @@ body {
   }
 
 }
+
 
 
 
