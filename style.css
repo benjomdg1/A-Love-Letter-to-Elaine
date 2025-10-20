@@ -60,6 +60,7 @@ body {
 
   body {
   overflow: auto;
+  background: #fff;
   }
 
   .scroll-paper {
@@ -76,6 +77,7 @@ body {
 
   body {
   overflow: auto;
+  background: #000;
   }
 
   .scroll-paper {
@@ -92,6 +94,7 @@ body {
 
   body {
   overflow: auto;
+  background: #FF69B4;
   }
 
   .scroll-paper {
@@ -103,6 +106,7 @@ body {
   }
 
 }
+
 
 
 
