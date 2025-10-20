@@ -59,53 +59,36 @@ body {
 @media only screen and (max-width: 600px) {
 
   body {
-  overflow: auto;
-  background: #fff;
+  overflow: hidden;
   }
 
   .scroll-paper {
   overflow: auto;
   }
-  
-  .scroll-paper.revealed {
-    margin-bottom: 50px;
-  }
-
 }
 
 @media only screen and (max-width: 800px) {
 
   body {
-  overflow: auto;
-  background: #000;
+  overflow: hidden;
   }
 
   .scroll-paper {
   overflow: auto;
   }
-
-  .scroll-paper.revealed {
-    margin-bottom: 50px;
-  }
-
 }
 
 @media only screen and (max-width: 400px) {
 
   body {
-  overflow: auto;
-  background: #FF69B4;
+  overflow: hidden;
   }
 
   .scroll-paper {
   overflow: auto;
   }
-
-  .scroll-paper.revealed {
-    margin-bottom: 50px;
-  }
-
 }
+
 
 
 
