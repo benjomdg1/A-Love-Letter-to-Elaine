@@ -64,6 +64,10 @@ body {
   .scroll-paper {
   overflow: auto;
   }
+  
+  .scroll-paper.revealed {
+    margin-bottom: 20px;
+  }
 
 }
 
@@ -75,6 +79,10 @@ body {
 
   .scroll-paper {
   overflow: auto;
+  }
+
+  .scroll-paper.revealed {
+    margin-bottom: 20px;
   }
 
 }
@@ -89,7 +97,12 @@ body {
   overflow: auto;
   }
 
+  .scroll-paper.revealed {
+    margin-bottom: 20px;
+  }
+
 }
+
 
 
 
