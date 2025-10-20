@@ -67,5 +67,30 @@ body {
 
 }
 
+@media only screen and (max-width: 800px) {
+
+  body {
+  overflow: hidden;
+  }
+
+  .scroll-paper {
+  overflow: auto;
+  }
+
+}
+
+@media only screen and (max-width: 400px) {
+
+  body {
+  overflow: hidden;
+  }
+
+  .scroll-paper {
+  overflow: auto;
+  }
+
+}
+
+
 
 
